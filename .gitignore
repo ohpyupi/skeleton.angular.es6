@@ -1,4 +1,4 @@
-dist/*.js
+dist/app.js
 *swp
 *swo
 node_modules
